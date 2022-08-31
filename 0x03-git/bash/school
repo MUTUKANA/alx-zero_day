@@ -1,2 +1,1 @@
-bash/alx
-echo"school"
+#!/bin/bash echo School
